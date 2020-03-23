@@ -27,8 +27,8 @@ void bubble_sort(vector<int>& nums) {
 
 int main()
 {
-    //vector<int> vec = {5, 3, 4, 1, 4};
-    vector<int> vec = {5, 3, 4, 1, 4, 0, 111, 3};
+    vector<int> vec = {5, 3, 4, 1, 4};
+    //vector<int> vec2 = {5, 3, 4, 1, 4, 0, 111, 3};
     bubble_sort(vec);
 
     return 0;
